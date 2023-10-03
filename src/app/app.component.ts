@@ -25,7 +25,6 @@ export class AppComponent implements OnInit{
     this.productService
         .getAllProductCard()
         .subscribe((data: DataCard) => {
-          console.log(data);
           this.productCardList = data.cards;
           this.filteredCardList =  data.cards;
           this.loading = false;
@@ -34,15 +33,12 @@ export class AppComponent implements OnInit{
   }
 
   filterResults(text: string) {
-    this.loading = true;
     if (!text) {
       this.filteredCardList = this.productCardList;
-      this.loading = false;
     }
   
     this.filteredCardList = this.productCardList.filter(
       (productCard) => {
-        this.loading = false;
         return productCard?.name.toLowerCase().includes(text.toLowerCase());
       }
     );

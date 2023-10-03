@@ -1,7 +1,6 @@
 import { HttpClient } from "@angular/common/http";
 import { Injectable } from '@angular/core';
-import { Observable, delay, map} from "rxjs";
-import { ProductCard } from '../models/productcard';
+import { Observable } from "rxjs";
 import { DataCard } from "../models/datacard";
 
 @Injectable({
