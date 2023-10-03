@@ -1,0 +1,17 @@
+.listing {
+    background: var(--accent-color);
+    padding: 10px;
+    margin-bottom: 14px;
+}
+.listing-heading {
+    color: var(--primary-color);
+    padding: 10px 10px 0 10px;
+}
+.listing-photo {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+.listing-location, .listing-shop, .listing-price {
+    padding: 10px;
+}

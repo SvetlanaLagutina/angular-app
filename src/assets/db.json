@@ -1,0 +1,85 @@
+{
+    "cards": [
+            {
+            "id": 0,
+            "name": "Ноутбук игровой Thunderobot 911 M G2 Pro 7 JT009U00DRU",
+            "country": "Germany",
+            "shop": "Сити-электроникс",
+            "photo": "https://angular.io/assets/images/tutorials/faa/bernard-hermant-CLKGGwIBTaY-unsplash.jpg",
+            "price": "99 999"
+            },
+            {
+            "id": 1,
+            "name": "Ноутбук HUAWEI MateBook D 16 i5 12450H/16/512Gb DOS Space Gray",
+            "country": "China",
+            "shop": "Сити-электроникс",
+            "photo": "https://angular.io/assets/images/tutorials/faa/brandon-griggs-wR11KBaB86U-unsplash.jpg",
+            "price": "73 999"
+            },
+            {
+            "id": 2,
+            "name": "Ноутбук ASUS M515DA-EJ1697",
+            "country": "Germany",
+            "shop": "Сити-электроникс",
+            "photo": "https://angular.io/assets/images/tutorials/faa/i-do-nothing-but-love-lAyXdl1-Wmc-unsplash.jpg",
+            "price": "37 999"
+            },
+            {
+            "id": 3,
+            "name": "Ноутбук Apple MacBook Air 13 M1/8/256 Space Gray (MGN63)",
+            "country": "France",
+            "shop": "Сити-электроникс",
+            "photo": "https://angular.io/assets/images/tutorials/faa/ian-macdonald-W8z6aiwfi1E-unsplash.jpg",
+            "price": "95 999"
+ 
+            },
+            {
+            "id": 4,
+            "name": "Ноутбук игровой MSI Katana GF76 11UC-887XRU",
+            "country": "Germany",
+            "shop": "Сити-электроникс",
+            "photo": "https://angular.io/assets/images/tutorials/faa/krzysztof-hepner-978RAXoXnH4-unsplash.jpg",
+            "price": "69 999" 
+            },
+            {
+            "id": 5,
+            "name": "Ноутбук HUAWEI MateBook D 15 i5 1155G7/8/256Gb Space Gray",
+            "country": "Germany",
+            "shop": "Сити-электроникс",
+            "photo": "https://angular.io/assets/images/tutorials/faa/r-architecture-JvQ0Q5IkeMM-unsplash.jpg",
+            "price": "54 999"
+            },
+            {
+            "id": 6,
+            "name": "Ноутбук HONOR Magicbook 15 R5 5500U/16/512Gb DOS Space Gray 5301AFVQ",
+            "country": "China",
+            "shop": "Сити-электроникс",
+            "photo": "https://angular.io/assets/images/tutorials/faa/phil-hearing-IYfp2Ixe9nM-unsplash.jpg",
+            "price": "54 999"
+            },
+            {
+            "id": 7,
+            "name": "Ноутбук HUAWEI MateBook D16 RLEF-X i5/16GB/512GB Space Gray",
+            "country": "Germany",
+            "shop": "Сити-электроникс",
+            "photo": "https://angular.io/assets/images/tutorials/faa/r-architecture-GGupkreKwxA-unsplash.jpg",
+            "price": "79 999"
+            },
+            {
+            "id": 8,
+            "name": "Ноутбук HONOR MagicBook X 15 i5/8/512GB Space Grey (BDR-WDH)",
+            "country": "France",
+            "shop": "Сити-электроникс",
+            "photo": "https://angular.io/assets/images/tutorials/faa/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+            "price": "56 999"
+            },
+            {
+            "id": 9,
+            "name": "Ноутбук для бизнеса Lenovo V14 G2 ITL 82KA00KNUS",
+            "country": "France",
+            "shop": "Сити-электроникс",
+            "photo": "https://angular.io/assets/images/tutorials/faa/webaliser-_TPTXZd9mOo-unsplash.jpg",
+            "price": "39 999"
+            }
+        ]
+    }

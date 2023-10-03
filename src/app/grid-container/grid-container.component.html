@@ -1,0 +1,12 @@
+<section class="listing">
+    <div class="photo">
+      <img class="listing-photo" [src]="productCard.photo" alt="Exterior photo of {{productCard.name}}">
+    </div>
+    <div class="listing-info">
+      <h2 class="listing-heading">{{ productCard.name }}</h2>
+      <p class="listing-shop">{{ productCard.shop}}</p>
+      <p class="listing-location">{{ productCard.country}}</p>
+      <p class="listing-price">{{ productCard.price}} ₽ /шт.</p>
+      <button class="primary" type="button">В корзину</button>
+    </div>
+</section>

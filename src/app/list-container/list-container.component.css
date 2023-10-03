@@ -1,0 +1,27 @@
+.listing {
+    display: flex;
+    width: 100%;
+    background: var(--accent-color);
+    padding: 10px;
+    margin-bottom: 14px;
+}
+.listing-heading {
+    color: var(--primary-color);
+}
+.listing-photo {
+    margin: 5px;
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    display: inline-block;
+}
+.listing-location, .listing-shop, .listing-price {
+    padding: 10px 10px 10px 0;
+}
+.listing-info {
+    margin: 15px;
+    vertical-align: middle;
+    width: 50%;
+    display: inline-block;
+}
